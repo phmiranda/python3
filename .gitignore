@@ -1,0 +1,10 @@
+# comentário.
+.idea/
+.vscode/
+
+# comentário.
+venv/
+
+# comentário.
+*.iml
+*.log
